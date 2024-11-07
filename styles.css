@@ -1,0 +1,45 @@
+body {
+    background: rgb(249,234, 234);
+    color: purple;
+    margin: 0px;
+    font-family: "Lora", serif;
+    
+}
+
+header {
+    border-bottom: solid 1px rgb(221, 100, 221);
+    padding: 20px;
+    font-size: 25px;
+    color: rgb(221, 100, 221);
+}
+section{ 
+    background: pink;
+    padding-bottom: 80px;
+    padding-top: 80px; 
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 32px;
+ }
+
+ p{
+    font-size: 20px;
+ }
+ img {
+     height: 200px;
+ }
+ .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px
+ }
+ section {
+    padding-left : 20px;
+    padding-right : 20px:
+ }
